@@ -2,4 +2,6 @@ title:Die Liste des Lords
 description:Here is a slightly longer description of just what it includes.
 
 https://destinytracker.com/destiny-2/db/items/507038823-the-last-breath?perks=1294026524,1482024992,1885400500,2621346526,4049631843,4248210736,2323986101,1590375901,0,2285418970
-
+https://destinytracker.com/destiny-2/db/items/4289226715-vex-mythoclast
+https://destinytracker.com/destiny-2/db/items/1216319404-fatebringer-timelost?perks=1294026524,3250034553,3142289711,3038247973,47981717,4248210736,2323986101,518224747,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1216319404-fatebringer-timelost?perks=1294026524,1482024992,3142289711,3038247973,47981717,4248210736,2323986101,518224747,0,2285418970
